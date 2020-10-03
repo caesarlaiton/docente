@@ -8,7 +8,11 @@ module.exports = {
     content: ["index.html"]
   },
   theme: {
-    extend: {},
+    extend: {
+      screens: {
+        "xs": "500px"
+      }
+    },
   },
   variants: {},
   plugins: [],

@@ -1,0 +1,23 @@
+{
+  "name": "docente",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caesarlaiton/teacher-business-card.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caesarlaiton/teacher-business-card/issues"
+  },
+  "homepage": "https://github.com/caesarlaiton/teacher-business-card#readme",
+  "devDependencies": {
+    "tailwindcss": "^1.8.10"
+  }
+}
